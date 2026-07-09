@@ -1,0 +1,1 @@
+# terraform-vm-local-variable-map
